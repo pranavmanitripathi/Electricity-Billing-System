@@ -13,10 +13,10 @@ The user can be registered through electricity board department and he/she can u
 3. Calculate Bill
 
 The department can perform following operations like:
-1.New Customer
-2.Customer Details
+1. New Customer
+2. Customer Details
 
 Some following operations can be performed too like:
-1.Notepad
-2.Calculator
-3.Web Brwoser
+1. Notepad
+2. Calculator
+3. Web Brwoser
