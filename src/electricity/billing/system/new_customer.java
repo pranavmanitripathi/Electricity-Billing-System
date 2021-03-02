@@ -13,7 +13,7 @@ import java.sql.*;
  *
  * @author pc
  */
-public class new_customer extends JFrame implements ActionListener{
+public class new_customer extends JFrame implements ActionListener {
     JLabel l1,l2,l3,l4,l5,l6,l7,l8;
     JTextField t1,t2,t3,t4,t5,t6,t7;
     JButton b1,b2;

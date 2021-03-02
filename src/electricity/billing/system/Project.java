@@ -16,7 +16,7 @@ import javax.swing.*;
  *
  * @author pc
  */
-public class Project extends JFrame implements ActionListener {
+public class Project extends JFrame implements ActionListener{
     Project(){
         super("Electricity Billing System");
         setSize(1920,1030);

@@ -9,7 +9,7 @@ package electricity.billing.system;
  *
  * @author pc
  */
-public class ElectricityBillingSystem {
+public class ElectricityBillingSystem{
 
     /**
      * @param args the command line arguments

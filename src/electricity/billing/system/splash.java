@@ -13,7 +13,7 @@ import javax.swing.*;
  *
  * @author pc
  */
-public class splash {
+public class splash{
     public static void main(String args[]){
         fframe f1=new fframe();
         f1.setVisible(true);

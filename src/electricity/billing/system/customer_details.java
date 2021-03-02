@@ -13,7 +13,7 @@ import java.sql.*;
  *
  * @author pc
  */
-public class customer_details extends JFrame implements ActionListener {
+public class customer_details extends JFrame implements ActionListener{
     JTable t1;
     JButton b1;
     String x[] = {"Emp Name","Meter No","Address","State","City","Email","Phone"};

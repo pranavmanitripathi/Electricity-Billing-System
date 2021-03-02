@@ -14,7 +14,7 @@ import java.sql.*;
  *
  * @author pc
  */
-public class generate_bill extends JFrame implements ActionListener {
+public class generate_bill extends JFrame implements ActionListener{
     JLabel l1;
     JTextArea t1;
     JButton b1;
