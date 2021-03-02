@@ -8,7 +8,7 @@ import java.sql.*;
  *
  * @author hp
  */
-public class calculate_bill extends JFrame implements ActionListener {
+public class calculate_bill extends JFrame implements ActionListener{
     JLabel l1,l2,l3,l4,l5;
     JTextField t1;
     Choice c1,c2;
